@@ -1,6 +1,6 @@
 {
-  "name": "helloworld-cloud",
-  "version": "0.2.0",
+  "name": "ecom-cloud",
+  "version": "0.1.0",
   "dependencies": {
     "body-parser": "~1.0.2",
     "cors": "~2.2.0",
